@@ -1,11 +1,11 @@
 /**
  *  base64.ts
- *
- *  Licensed under the BSD 3-Clause License.
- *    http://opensource.org/licenses/BSD-3-Clause
- *
- *  References:
- *    http://en.wikipedia.org/wiki/Base64
+ *  
+ *  什么是 base64 ?
+ *  前端常见的应用场景是什么？
+ *  浏览器提供了 base64 的方法如何使用
+ *  js-base64 解决什么问题？
+ * 
  *
  * @author Dan Kogai (https://github.com/dankogai)
  */
